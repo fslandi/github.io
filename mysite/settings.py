@@ -25,7 +25,7 @@ SECRET_KEY = '+g!58##62ao%s37&xu(!n(9fhj2v5j9kww56t*i%#segps0u_7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ 'fslandi.pythonanywhere.com']
 
 
 # Application definition
